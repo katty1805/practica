@@ -16,7 +16,7 @@ import java.util.logging.Logger;
 import static org.junit.Assert.assertTrue;
 
 public class ImdbTeststotal {
-    private static final String SEARCHTERM = "Before sunrise";
+    private static final String SEARCHTERM = "Starts";
 
     private WebDriver driver;
     private String baseUrl;
